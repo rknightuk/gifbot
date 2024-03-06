@@ -1,0 +1,3 @@
+data/*.previous
+data/bttf_gifs
+.env
